@@ -9,6 +9,3 @@
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
-<a href="https://github.com/markelog">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
